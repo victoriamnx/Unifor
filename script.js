@@ -14,3 +14,8 @@ function mostrarMensagem(value) {
     botao.innerHTML = "Clique aqui";
   });
 }
+
+function IrPara(value) {
+  document.getElementById("newmsg").innerHTML = value;
+}
+
