@@ -15,7 +15,6 @@ function mostrarMensagem(value) {
   });
 }
 
-function IrPara(value) {
-  document.getElementById("newmsg").innerHTML = value;
-}
-
+// function IrPara(value) {
+//   document.getElementById("newmsg").innerHTML = value;
+// }
