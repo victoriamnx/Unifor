@@ -28,32 +28,6 @@ body {
   background-position: top left, bottom right;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: hsla(315, 20%, 96%, 1);
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: hsl(300, 43%, 22%);
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  color: white;
-  background-color: hsl(300, 43%, 22%);
-  text-decoration: none;
-}
-
 .container {
   display: flex;
   align-items: center;
