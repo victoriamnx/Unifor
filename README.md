@@ -1,2 +1,3 @@
-# Unifor
-Repositório para por todos os meus estudos da faculdade - Repository for all my college studies
+# Repositório usado para estudos 
+
+Este repositório é referente ao curso de Análise e Desenvolvimentos da Unifor.
